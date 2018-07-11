@@ -14,4 +14,4 @@ loop do
     end
   end
 end
-puts output
+puts output.join(" ")
